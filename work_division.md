@@ -27,7 +27,7 @@ of different methods. Datasets are ideally bidimensional.
 
 ---
 
-### **Task 2: Investigate method assumptions  
+### **Task 2: Investigate method assumptions**  
 Find for each of the listed methods a dataset where the **respective assumptions are met** and assumptions of the other methods are not met (if possible). In other words, a dataset where that method is hard to beat using **cross validation**.
 
 **Explain** why this dataset is appropriate for the method.
