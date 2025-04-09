@@ -4,7 +4,7 @@
 - **Cosmin Tianu**  
 - **Cosma Razvan**  
 
-## **Task 1: Dataset Generation**  
+## **Task 2: Dataset Generation**  
 Generate artificial datasets that illustrate the assumptions and characteristics
 of different methods. Datasets are ideally bidimensional.  
 ### Create datasets with varying:  
@@ -27,7 +27,7 @@ of different methods. Datasets are ideally bidimensional.
 
 ---
 
-### **Task 2: Investigate method assumptions**  
+### **Task 3: Investigate method assumptions**  
 Find for each of the listed methods a dataset where the **respective assumptions are met** and assumptions of the other methods are not met (if possible). In other words, a dataset where that method is hard to beat using **cross validation**.
 
 **Explain** why this dataset is appropriate for the method.
@@ -38,14 +38,14 @@ may facilitate the task.
 
 ---
 
-### **Task 3: Bias-Variance Tradeoff & Model Capacity**   
+### **Task 4: Bias-Variance Tradeoff & Model Capacity**   
 - Find a dataset where by **varying the level of noise** (or other dataset properties such as border shape) different levels of tree pruning are ideal, from no pruning to maximum pruning. Produce a plot of level of noise (or other some other property if you prefer) against ccp alpha. - Cosmin
 - Measure bias and variance error decomposition for three versions of this dataset along ccp alpha (decision trees). - Razvan
 - Interpret the results in terms of model capacity, bias error, variance error and total error. - Razvan
 
 ---
 
-### **Task 4: Ensemble Learning (Bagging, Random Forest, Boosting)**  
+### **Task 5: Ensemble Learning (Bagging, Random Forest, Boosting)**  
 With the dataset you used to study trees, compare Bagging, RandomForest
 and AbaBoost and other forms of boosting.
 #### **Subtasks**  
@@ -61,7 +61,7 @@ and AbaBoost and other forms of boosting.
 
 ---
 
-### **Task 5: Report & Presentation**  
+### **Task 6: Report & Presentation**  
  write the final report, and prepare the presentation. - Cosmin  
 - Write a structured report including:  
   - Cover page with authors, title, and date.  
